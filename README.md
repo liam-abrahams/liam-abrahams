@@ -1,5 +1,5 @@
 ## Hi there, I'm Liam 👋
-## Data Analyst | Python | Power BI | Renewable Energy Analytics
+### Data Analyst | Python | Power BI | Renewable Energy Analytics
 
 <!--
 **liam-abrahams/liam-abrahams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
