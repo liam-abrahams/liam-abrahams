@@ -3,6 +3,8 @@
 
 ### 🔭 I’m currently working on building a profile that demonstrates some of the skills I have picked up in industry
 
+### 🌱 I’m currently teaching myself some Machine Learning and new plotting techniques
+
 <!--
 **liam-abrahams/liam-abrahams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
