@@ -5,6 +5,14 @@
 
 ### 🌱 I’m currently teaching myself some Machine Learning and new plotting techniques
 
+### 🚀 Featured Projects
+
+- Wind Turbine Performance Analysis & Forecasting
+
+  SCADA analytics, KPI development & dashboarding, performance modelling, basic forecasting
+
+  👉 [View Repo](https://github.com/liam-abrahams/wind-turbine-performance-analysis-and-forecasting)
+
 <!--
 **liam-abrahams/liam-abrahams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
