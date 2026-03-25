@@ -1,7 +1,7 @@
 ## Hi there, I'm Liam 👋
 ### Data Analyst | Python | Power BI | Renewable Energy Analytics
 
-### 🔭 I’m currently working on building a profile that demonstrates some of the skills I have picked up in industry
+### 🔭 I’m currently working on building a profile that demonstrates some of the skills I have picked up in the renewable energy industry
 
 ### 🌱 I’m currently teaching myself some Machine Learning and new plotting techniques
 
